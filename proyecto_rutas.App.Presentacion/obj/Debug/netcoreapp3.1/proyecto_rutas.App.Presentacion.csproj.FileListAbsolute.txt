@@ -1,0 +1,164 @@
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.exe
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.deps.json
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.runtimeconfig.json
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.runtimeconfig.dev.json
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.Views.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.Views.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.csprojAssemblyReference.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.AssemblyInfoInputs.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.AssemblyInfo.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.csproj.CoreCompileInputs.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorAssemblyInfo.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorAssemblyInfo.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.TagHelpers.input.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.TagHelpers.output.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorCoreGenerate.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorTargetAssemblyInfo.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorTargetAssemblyInfo.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.Views.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\proyecto_rutas.App.Presentacion.StaticWebAssets.Manifest.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\proyecto_rutas.App.Presentacion.StaticWebAssets.xml
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.genruntimeconfig.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.csproj.CopyComplete
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Acudientes\List.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.exe
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.deps.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.runtimeconfig.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.runtimeconfig.dev.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.dll
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.pdb
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.Views.dll
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.Views.pdb
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.csprojAssemblyReference.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.AssemblyInfoInputs.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.AssemblyInfo.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorAssemblyInfo.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorAssemblyInfo.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.TagHelpers.input.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.TagHelpers.output.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorCoreGenerate.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Acudientes\List.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorTargetAssemblyInfo.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorTargetAssemblyInfo.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.Views.pdb
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\proyecto_rutas.App.Presentacion.StaticWebAssets.Manifest.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\proyecto_rutas.App.Presentacion.StaticWebAssets.xml
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.dll
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.pdb
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.genruntimeconfig.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.csproj.CopyComplete
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.exe
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.deps.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.runtimeconfig.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.runtimeconfig.dev.json
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.dll
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.pdb
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.Views.dll
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.Views.pdb
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.csprojAssemblyReference.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.AssemblyInfoInputs.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.AssemblyInfo.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorAssemblyInfo.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorAssemblyInfo.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.TagHelpers.input.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.TagHelpers.output.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorCoreGenerate.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Acudientes\List.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorTargetAssemblyInfo.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.RazorTargetAssemblyInfo.cs
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.Views.pdb
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\proyecto_rutas.App.Presentacion.StaticWebAssets.Manifest.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\proyecto_rutas.App.Presentacion.StaticWebAssets.xml
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.dll
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.pdb
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.genruntimeconfig.cache
+C:\Users\57305\Desktop\Curso C# MinTic\Proyecto_base\Proyecto\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\proyecto_rutas.App.Presentacion.csproj.CopyComplete
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Dominio.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Dominio.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Estudiantes\Est.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Conductores\Cond.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Ruta\Rut.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculo\Vehi.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Persistencia.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Persistencia.pdb

@@ -1,0 +1,12 @@
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\bin\Debug\netstandard2.1\proyecto_rutas.App.Persistencia.deps.json
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\bin\Debug\netstandard2.1\proyecto_rutas.App.Persistencia.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\bin\Debug\netstandard2.1\proyecto_rutas.App.Persistencia.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\bin\Debug\netstandard2.1\proyecto_rutas.App.Dominio.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\bin\Debug\netstandard2.1\proyecto_rutas.App.Dominio.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\obj\Debug\netstandard2.1\proyecto_rutas.App.Persistencia.csprojAssemblyReference.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\obj\Debug\netstandard2.1\proyecto_rutas.App.Persistencia.AssemblyInfoInputs.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\obj\Debug\netstandard2.1\proyecto_rutas.App.Persistencia.AssemblyInfo.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\obj\Debug\netstandard2.1\proyecto_rutas.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\obj\Debug\netstandard2.1\proyecto_rutas.App.Persistencia.csproj.CopyComplete
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\obj\Debug\netstandard2.1\proyecto_rutas.App.Persistencia.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Persistencia\obj\Debug\netstandard2.1\proyecto_rutas.App.Persistencia.pdb

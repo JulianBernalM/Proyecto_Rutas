@@ -1,0 +1,9 @@
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Dominio\bin\Debug\netstandard2.0\proyecto_rutas.App.Dominio.deps.json
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Dominio\bin\Debug\netstandard2.0\proyecto_rutas.App.Dominio.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Dominio\bin\Debug\netstandard2.0\proyecto_rutas.App.Dominio.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Dominio\obj\Debug\netstandard2.0\proyecto_rutas.App.Dominio.csprojAssemblyReference.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Dominio\obj\Debug\netstandard2.0\proyecto_rutas.App.Dominio.AssemblyInfoInputs.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Dominio\obj\Debug\netstandard2.0\proyecto_rutas.App.Dominio.AssemblyInfo.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Dominio\obj\Debug\netstandard2.0\proyecto_rutas.App.Dominio.csproj.CoreCompileInputs.cache
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Dominio\obj\Debug\netstandard2.0\proyecto_rutas.App.Dominio.dll
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Dominio\obj\Debug\netstandard2.0\proyecto_rutas.App.Dominio.pdb

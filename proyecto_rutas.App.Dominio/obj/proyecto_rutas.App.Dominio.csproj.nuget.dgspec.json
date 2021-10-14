@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\proyecto_rutas\\proyecto_rutas.App\\proyecto_rutas.App.Dominio\\proyecto_rutas.App.Dominio.csproj": {}
+  },
+  "projects": {
+    "C:\\proyecto_rutas\\proyecto_rutas.App\\proyecto_rutas.App.Dominio\\proyecto_rutas.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyecto_rutas\\proyecto_rutas.App\\proyecto_rutas.App.Dominio\\proyecto_rutas.App.Dominio.csproj",
+        "projectName": "proyecto_rutas.App.Dominio",
+        "projectPath": "C:\\proyecto_rutas\\proyecto_rutas.App\\proyecto_rutas.App.Dominio\\proyecto_rutas.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\57305\\.nuget\\packages\\",
+        "outputPath": "C:\\proyecto_rutas\\proyecto_rutas.App\\proyecto_rutas.App.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\57305\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
