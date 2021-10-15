@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
+using proyecto_rutas.App.Dominio.Entidades;
 
 namespace proyecto_rutas.App.Presentacion.Pages
 {

@@ -1,7 +1,42 @@
 ﻿@page
-@model proyecto_rutas.App.Presentacion.ListModel
+@model proyecto_ruta.App.Presentacion.Pages.ListModel
 @{
+    var searchString = Model.searchString;
 }
-<body style="background-color:#5DADE2;">
-</body>
-<h1>Listado de acudientes</h1>  
+
+<h1>Listado de Acudientes</h1>
+<p>
+
+   @Html.ActionLink("Create New", "./List")
+
+</p>
+
+@using (Html.BeginForm())
+
+{
+   <p>
+
+       Buscar x Nombre: @Html.TextBox("SearchString") 
+
+       <input type="submit" value="Search" />
+
+   </p>
+
+}
+
+<table class="table">
+    @foreach (var acudiente in Model.acudientes)
+    {
+        <tr>
+            <td>@acudiente.id</td>
+            <td>@acudiente.numero_identificacion</td>
+            <td>@acudiente.nombre</td>
+            <td>
+
+            </td>
+
+            <td>
+                
+            </td </tr>
+    }
+</table>

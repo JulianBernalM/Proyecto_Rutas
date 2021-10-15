@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using proyecto_rutas.App.Persistencia.AppRepositorios;
 
 namespace proyecto_rutas.App.Presentacion
 {
@@ -24,6 +25,9 @@ namespace proyecto_rutas.App.Presentacion
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddScoped<IRepositorioAcudiente, RepositorioAcudiente>();
+            services.AddSingleton<proyecto_rutas.App.Persistencia.AppRepositorios.AppContext>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -63,6 +63,9 @@ namespace proyecto_rutas.App.Persistencia.AppRepositorios
                 AcudienteEncontrado.primer_apellido = acudiente.primer_apellido;
                 AcudienteEncontrado.segundo_apellido = acudiente.segundo_apellido;
                 AcudienteEncontrado.fijo = acudiente.fijo;
+                AcudienteEncontrado.movil = acudiente.movil;
+                AcudienteEncontrado.mail = acudiente.mail;
+                AcudienteEncontrado.direccion = acudiente.direccion;
 
                 _appContext.SaveChanges();
             }
