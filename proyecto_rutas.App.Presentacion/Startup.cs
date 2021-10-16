@@ -26,6 +26,7 @@ namespace proyecto_rutas.App.Presentacion
         {
             services.AddRazorPages();
             services.AddScoped<IRepositorioAcudiente, RepositorioAcudiente>();
+            services.AddScoped<IRepositorioConductor, RepositorioConductor>();
             services.AddSingleton<proyecto_rutas.App.Persistencia.AppRepositorios.AppContext>();
 
         }

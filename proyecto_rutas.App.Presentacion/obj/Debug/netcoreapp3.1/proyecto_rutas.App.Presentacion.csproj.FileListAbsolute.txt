@@ -162,3 +162,6 @@ C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\n
 C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Persistencia.dll
 C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\bin\Debug\netcoreapp3.1\proyecto_rutas.App.Persistencia.pdb
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Acudientes\Delete_Acu.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Acudientes\Details_Acu.cshtml.g.cs
+C:\proyecto_rutas\proyecto_rutas.App\proyecto_rutas.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Acudientes\Edit_Acu.cshtml.g.cs

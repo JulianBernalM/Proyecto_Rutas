@@ -1,0 +1,26 @@
+﻿@page
+@model proyecto_rutas.App.Presentacion.Pages.DeleteModel
+
+@{
+    int acudienteId = Model.acudiente.id;
+}
+
+<h2>Edición de los datos del acudiente @Model.acudiente.nombre @Model.acudiente.numero_identificacion</h2>
+<form method="post">
+    <input type="hidden" asp-for="acudiente.id" />    
+    <div class="form-group">
+        <label asp-for="acudiente.numero_identificacion"></label>
+        <input asp-for="acudiente.numero_identificacion" class="form-control" disabled>
+        <span class="text-danger" asp-validation-for="acudiente.numero_identificacion"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="acudiente.nombre"></label>
+        <input asp-for="acudiente.nombre" class="form-control" disabled>
+        <span class="text-danger" asp-validation-for="acudiente.nombre"></span>
+    </div>
+
+    <button type="submit" class="btn btn-danger">ELIMINAR</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar a la lista de acudientes </a>
+

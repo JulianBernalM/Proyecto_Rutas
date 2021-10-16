@@ -31,12 +31,30 @@
             <td>@acudiente.id</td>
             <td>@acudiente.numero_identificacion</td>
             <td>@acudiente.nombre</td>
+            <td>@acudiente.primer_apellido</td>
+            <td>@acudiente.segundo_apellido</td>
+            <td>@acudiente.fijo</td>
+            <td>@acudiente.movil</td>
+            <td>@acudiente.mail</td>
+            <td>@acudiente.direccion</td>
             <td>
-
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-acudienteId="@acudiente.id">
+                    Detalle</a>
             </td>
 
             <td>
-                
-            </td </tr>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-acudienteId="@acudiente.id">
+                    Editar
+                </a>
+            </td> 
+
+            <td>
+                <a class="btn btn-danger table-btn" asp-page="./Delete" asp-route-acudienteId="@acudiente.id">
+                    Eliminar
+                </a>
+            </td> 
+        </tr>
     }
 </table>
+
+<a asp-page=".\Edit" class="btn btn-primary">Adicionar un acudiente</a>

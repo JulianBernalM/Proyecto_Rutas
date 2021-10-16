@@ -8,15 +8,16 @@ using Microsoft.AspNetCore.Authorization;
 
 using proyecto_rutas.App.Dominio;
 using proyecto_rutas.App.Persistencia.AppRepositorios;
-
+using proyecto_rutas.App.Dominio.Entidades;
+///using proyecto_rutas.App.Persistencia;
 
 namespace proyecto_rutas.App.Presentacion.Pages
-{
-    //[Authorize]
+{    //[Authorize]
     public class ListModel : PageModel
     {
         private readonly IRepositorioAcudiente _appContext;
-        public IEnumerable<Acudiente> acudientes {get; set;}   
+        public IEnumerable<Acudiente> acudientes {get; set;}  
+
         public string searchString;
 
         public ListModel()
@@ -24,11 +25,11 @@ namespace proyecto_rutas.App.Presentacion.Pages
             this._appContext = new RepositorioAcudiente(new proyecto_rutas.App.Persistencia.AppRepositorios.AppContext());
         }
        
-        public void OnGet(string filtroBusqueda)
+        public void OnGet()
         {
             acudientes = _appContext.GetAllAcudientes(searchString);          
         }
-        public IActionResult OnPost (string? searchString)
+        public IActionResult OnPost(string? searchString)
         {
             if (!ModelState.IsValid)
             {
